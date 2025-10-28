@@ -54,7 +54,7 @@
             <div class="cs_main_header_in">
                 <div class="cs_main_header_left">
                     <a class="cs_site_branding" href="index">
-                        <img src="assets/img/logo_dark.webp" alt="Logo">
+                        <img src="assets/img/logo.webp" alt="Logo">
                     </a>
                 </div>
                 <div class="cs_main_header_center">
