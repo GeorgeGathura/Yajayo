@@ -198,55 +198,146 @@ if ($__path !== '' && $__path !== 'index' && $__path !== 'index.php') {
     <!-- End About Section -->
     <section>
         <div class="cs_height_145 cs_height_lg_75"></div>
-    </section> 
-    <!-- Start Feature Section -->
-    <section class="cs_gray_bg_2">
-      <div class="cs_height_0 cs_height_lg_80"></div>
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-6">
-            <div class="cs_half_screen_left">
-              <div class="cs_half_screen_thumb cs_bg_filed" data-src="assets/img/agriculture/feature_bg.jpg"></div>
-            </div>
-          </div>
-          <div class="col-lg-6">
-            <div class="cs_pl_95 wow fadeInRight" data-wow-duration="0.8s" data-wow-delay="0.25s">
-              <div class="cs_height_93 cs_height_lg_45"></div>
-              <div class="cs_section_heading cs_style_1">
-                <h3 class="cs_fs_21 cs_semibold cs_accent_color cs_mb_13">Lets Save Planet Together</h3>
-                <h2 class="cs_fs_51 mb-0">Quenching Thirst, Saving Lives with Support</h2>
-              </div>
-              <div class="cs_height_50 cs_height_lg_50"></div>
-              <ul class="cs_list cs_style_2 cs_mp_0">
-                <li>
-                  <span class="cs_list_number cs_fs_70 cs_bold cs_heading_font">01</span>
-                  <div class="cs_list_right">
-                    <h3 class="cs_fs_28 cs_semibold cs_mb_10">Donate</h3>
-                    <p class="mb-0">Help us protect wildlife, advocate for animal welfare, and promote environmental sustainability.</p>
-                  </div>
-                </li>
-                <li>
-                  <span class="cs_list_number cs_fs_70 cs_bold cs_heading_font">02</span>
-                  <div class="cs_list_right">
-                    <h3 class="cs_fs_28 cs_semibold cs_mb_10">Fundraisers</h3>
-                    <p class="mb-0">Join our fundraising efforts and be a catalyst for positive change.</p>
-                  </div>
-                </li>
-                <li>
-                  <span class="cs_list_number cs_fs_70 cs_bold cs_heading_font">03</span>
-                  <div class="cs_list_right">
-                    <h3 class="cs_fs_28 cs_semibold cs_mb_10">Volunteer</h3>
-                    <p class="mb-0">Join our passionate community of volunteers dedicated to making a positive impact on wildlife.</p>
-                  </div>
-                </li>
-              </ul>
-              <div class="cs_height_100 cs_height_lg_70"></div>
-            </div>
-          </div>
-        </div>
-      </div>
     </section>
-    <!-- End Feature Section -->
+    <!-- Start Service Section -->
+    <section class="cs_bg_filed cs_bg_fixed" data-src="assets/img/banner/services_overlay.webp">
+        <div class="cs_height_145 cs_height_lg_75"></div>
+        <div class="container">
+            <div class="cs_section_heading cs_style_1 text-center">
+                <h3 class="cs_fs_21 cs_semibold cs_accent_color cs_mb_13">What We Do</h3>
+                <h2 class="cs_fs_51 cs_mb_9 cs_white_color">Our Services</h2>
+                <p class="mb-0 cs_white_color">Discover a range of services aimed at promoting environmental <br>awareness, sustainability, and positive action.</p>
+            </div>
+            <div class="cs_height_90 cs_height_lg_50"></div>
+        </div>
+        <div class="cs_slider cs_style_1 cs_slider_gap_24 cs_ptb_12">
+            <div class="container">
+                <div class="cs_slider_container" data-autoplay="0" data-loop="1" data-speed="800" data-center="0" data-variable-width="0" data-slides-per-view="responsive" data-xs-slides="1" data-sm-slides="2" data-md-slides="3" data-lg-slides="4" data-add-slides="4">
+                    <div class="cs_slider_wrapper">
+                        <div class="cs_slide">
+                            <div class="cs_iconbox cs_style_5 text-center cs_accent_bg">
+                                <div class="cs_iconbox_icon cs_center cs_mb_27">
+                                    <i class="fa-solid fa-arrows-spin" style="color: #fff;font-size: 80px"></i>
+                                </div>
+                                <h3 class="cs_iconbox_title cs_white_color cs_fs_21 cs_semibold cs_mb_50"><a href="service-details.html">Reverse Logistics</a></h3>
+                                <a href="service-details.html" class="cs_btn cs_style_2 cs_white_color">
+                                    Learn More
+                                    <i>
+                                        <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M1 9L9 1M9 1L1 1M9 1L9 9" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path>
+                                        </svg>
+                                        <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M1 9L9 1M9 1L1 1M9 1L9 9" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path>
+                                        </svg>
+                                    </i>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="cs_slide">
+                            <div class="cs_iconbox cs_style_5 text-center cs_accent_bg">
+                                <div class="cs_iconbox_icon cs_center cs_mb_27">
+                                   
+                                    <i class="fa-solid fa-handshake" style="color: #fff;font-size: 80px"></i>
+                                </div>
+                                <h3 class="cs_iconbox_title cs_white_color cs_fs_21 cs_semibold cs_mb_50">
+                                    <a href="service-details.html">Onsite Management</a></h3>
+                                <a href="service-details.html" class="cs_btn cs_style_2 cs_white_color">
+                                    Learn More
+                                    <i>
+                                        <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M1 9L9 1M9 1L1 1M9 1L9 9" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path>
+                                        </svg>
+                                        <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M1 9L9 1M9 1L1 1M9 1L9 9" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path>
+                                        </svg>
+                                    </i>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="cs_slide">
+                            <div class="cs_iconbox cs_style_5 text-center cs_accent_bg">
+                                <div class="cs_iconbox_icon cs_center cs_mb_27">
+                                 
+                                    <i class="fa-solid fa-check-double" style="color: #fff;font-size: 80px"></i>
+                                </div>
+                                <h3 class="cs_iconbox_title cs_white_color cs_fs_21 cs_semibold cs_mb_50">
+                                    <a href="service-details.html">EPR Compliance</a></h3>
+                                <a href="service-details.html" class="cs_btn cs_style_2 cs_white_color">
+                                    Learn More
+                                    <i>
+                                        <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M1 9L9 1M9 1L1 1M9 1L9 9" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path>
+                                        </svg>
+                                        <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M1 9L9 1M9 1L1 1M9 1L9 9" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path>
+                                        </svg>
+                                    </i>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="cs_slide">
+                            <div class="cs_iconbox cs_style_5 text-center cs_accent_bg">
+                                <div class="cs_iconbox_icon cs_center cs_mb_27">
+                                    <i class="fa-solid fa-seedling" style="color: #fff;font-size: 80px"></i>
+                                </div>
+                                <h3 class="cs_iconbox_title cs_white_color cs_fs_21 cs_semibold cs_mb_50">
+                                    <a href="service-details.html">ESG Reporting</a></h3>
+                                <a href="service-details.html" class="cs_btn cs_style_2 cs_white_color">
+                                    Learn More
+                                    <i>
+                                        <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M1 9L9 1M9 1L1 1M9 1L9 9" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path>
+                                        </svg>
+                                        <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M1 9L9 1M9 1L1 1M9 1L9 9" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path>
+                                        </svg>
+                                    </i>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="cs_slide">
+                            <div class="cs_iconbox cs_style_5 text-center cs_accent_bg">
+                                <div class="cs_iconbox_icon cs_center cs_mb_27">
+                                    <img src="assets/img/climate-change/feature_icon_2.svg" alt="">
+                                </div>
+                                <h3 class="cs_iconbox_title cs_white_color cs_fs_21 cs_semibold cs_mb_50"><a href="service-details.html">Renewable Energy Consultation</a></h3>
+                                <a href="service-details.html" class="cs_btn cs_style_2 cs_white_color">
+                                    Learn More
+                                    <i>
+                                        <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M1 9L9 1M9 1L1 1M9 1L9 9" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path>
+                                        </svg>
+                                        <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M1 9L9 1M9 1L1 1M9 1L9 9" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path>
+                                        </svg>
+                                    </i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="cs_slider_arrows cs_style_1 cs_type_1">
+                <div class="cs_arrow_wrap cs_arrow_wrap_left cs_center">
+                    <div class="cs_left_arrow rounded-circle cs_center">
+                        <svg width="31" height="16" viewBox="0 0 31 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M0.292892 7.29289C-0.0976315 7.68342 -0.0976315 8.31658 0.292892 8.70711L6.65685 15.0711C7.04738 15.4616 7.68054 15.4616 8.07107 15.0711C8.46159 14.6805 8.46159 14.0474 8.07107 13.6569L2.41421 8L8.07107 2.34315C8.46159 1.95262 8.46159 1.31946 8.07107 0.928932C7.68054 0.538408 7.04738 0.538408 6.65685 0.928932L0.292892 7.29289ZM31 7L1 7V9L31 9V7Z" fill="currentColor"/>
+                        </svg>
+                    </div>
+                </div>
+                <div class="cs_arrow_wrap cs_arrow_wrap_right cs_center">
+                    <div class="cs_right_arrow rounded-circle cs_center">
+                        <svg width="31" height="16" viewBox="0 0 31 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M30.7071 8.70711C31.0976 8.31658 31.0976 7.68342 30.7071 7.29289L24.3431 0.928932C23.9526 0.538408 23.3195 0.538408 22.9289 0.928932C22.5384 1.31946 22.5384 1.95262 22.9289 2.34315L28.5858 8L22.9289 13.6569C22.5384 14.0474 22.5384 14.6805 22.9289 15.0711C23.3195 15.4616 23.9526 15.4616 24.3431 15.0711L30.7071 8.70711ZM0 9H30V7H0V9Z" fill="currentColor"/>
+                        </svg>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="cs_height_150 cs_height_lg_80"></div>
+    </section>
+    <!-- End Service Section -->
+
     <!-- Start Event Section -->
     <section class="cs_shape_wrap">
       <div class="cs_height_145 cs_height_lg_75"></div>
@@ -343,98 +434,109 @@ if ($__path !== '' && $__path !== 'index' && $__path !== 'index.php') {
     </section>
     <!-- End Event Section -->
 
-
     <!-- Start Blog Section -->
-    <section>
-      <div class="cs_height_145 cs_height_lg_75"></div>
-      <div class="container">
-        <div class="cs_section_heading cs_style_1 text-center">
-          <h3 class="cs_fs_21 cs_semibold cs_accent_color cs_mb_13 wow fadeIn" data-wow-duration="0.8s" data-wow-delay="0.25s">Blog Post</h3>
-          <h2 class="cs_fs_51 mb-0 wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.25s">Our Latest News & Updates</h2>
+    <section class="cs_gray_bg_2">
+        <div class="cs_height_145 cs_height_lg_75"></div>
+        <div class="cs_slider cs_style_1 cs_slider_gap_24 cs_ptb_12">
+            <div class="container">
+                <div class="cs_slider_heading_1">
+                    <div class="cs_section_heading cs_style_1">
+                        <h3 class="cs_fs_21 cs_semibold cs_accent_color cs_mb_13 wow fadeIn" data-wow-duration="0.8s" data-wow-delay="0.25s">Blog Post</h3>
+                        <h2 class="cs_fs_51 mb-0 wow fadeInRight" data-wow-duration="0.8s" data-wow-delay="0.25s">Our Latest News & Updates</h2>
+                    </div>
+                    <div class="cs_slider_arrows cs_style_3 cs_hide_lg">
+                        <div class="cs_left_arrow rounded-circle cs_center">
+                            <svg width="22" height="16" viewBox="0 0 22 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0.292892 7.29289C-0.0976315 7.68342 -0.0976315 8.31658 0.292892 8.70711L6.65685 15.0711C7.04738 15.4616 7.68054 15.4616 8.07107 15.0711C8.46159 14.6805 8.46159 14.0474 8.07107 13.6569L2.41421 8L8.07107 2.34315C8.46159 1.95262 8.46159 1.31946 8.07107 0.928932C7.68054 0.538408 7.04738 0.538408 6.65685 0.928932L0.292892 7.29289ZM22 7L1 7V9L22 9V7Z" fill="currentColor"/>
+                            </svg>
+                        </div>
+                        <div class="cs_right_arrow rounded-circle cs_center">
+                            <svg width="22" height="16" viewBox="0 0 22 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M21.7071 8.70711C22.0976 8.31658 22.0976 7.68342 21.7071 7.29289L15.3431 0.928932C14.9526 0.538408 14.3195 0.538408 13.9289 0.928932C13.5384 1.31946 13.5384 1.95262 13.9289 2.34315L19.5858 8L13.9289 13.6569C13.5384 14.0474 13.5384 14.6805 13.9289 15.0711C14.3195 15.4616 14.9526 15.4616 15.3431 15.0711L21.7071 8.70711ZM0 9L21 9V7L0 7L0 9Z" fill="currentColor"/>
+                            </svg>
+                        </div>
+                    </div>
+                </div>
+                <div class="cs_height_90 cs_height_lg_50"></div>
+                <div class="cs_full_screen_right cs_variable_width_wrap">
+                    <div class="cs_slider_container" data-autoplay="0" data-loop="1" data-speed="700" data-center="0" data-variable-width="1" data-slides-per-view="1">
+                        <div class="cs_slider_wrapper">
+                            <div class="cs_slide">
+                         
+                                <div class="cs_post cs_style_1">
+                                    
+                                    <a href="/beyond-factory-gates-do-manufacturers-own-waste-products-create" class="cs_post_thumb">
+                                        <img src="assets/img/beyond_factory-600x400.webp" alt="Post">
+                                    </a>
+                                    <div class="cs_post_info cs_shadow_1">
+                                        <ul class="cs_post_meta cs_mp_0">
+                                            <li><i class="fa-solid fa-user-pen"></i>Yajayo</li>
+                                            <li><i class="fa-solid fa-tag"></i>Environment</li>
+                                        </ul>
+                                     
+                                        <h2 class="cs_post_title cs_semibold cs_fs_28 cs_mb_22"><a href="recycling-glass-bottles-why-its-no-brainer.php">Beyond the Factory Gates: Do Manufacturers Own the Waste Their Products Create?</a></h2>
+                                        <p class="cs_post_subtitle cs_mb_16">Exploring Extended Producer Responsibility (EPR) and how it’s reshaping waste management in Kenya...</p>
+                                        <a href="recycling-glass-bottles-why-its-no-brainer.php" class="cs_btn cs_style_2 cs_heading_color">
+                                            Learn More
+                                            <i>
+                                                <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path d="M1 9L9 1M9 1L1 1M9 1L9 9" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+                                                </svg>
+                                                <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path d="M1 9L9 1M9 1L1 1M9 1L9 9" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+                                                </svg>
+                                            </i>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="cs_slide">
+                                <div class="cs_post cs_style_1">
+                                    <a href="recycling-glass-bottles-why-its-no-brainer.php" class="cs_post_thumb">
+                                        <img src="assets/img/recycling_bottle_glass.webp" alt="Post">
+                                    </a>
+                                    <div class="cs_post_info cs_shadow_1">
+                                        <ul class="cs_post_meta cs_mp_0">
+                                            <li><i class="fa-solid fa-user-pen"></i>Yajayo</li>
+                                            <li><i class="fa-solid fa-tag"></i>Environment</li>
+                                        </ul>
+                                        <h2 class="cs_post_title cs_semibold cs_fs_28 cs_mb_22 "><a href="recycling-glass-bottles-why-its-no-brainer.php">Beyond the Factory Gates: Do Manufacturers Own the Waste Their Products Create?</a></h2>
+                                        <p class="cs_post_subtitle cs_mb_16 ">Exploring Extended Producer Responsibility (EPR) and how it’s reshaping waste management in Kenya...</p>
+                                        <a href="recycling-glass-bottles-why-its-no-brainer.php" class="cs_btn cs_style_2 cs_heading_color">
+                                            Learn More
+                                            <i>
+                                                <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path d="M1 9L9 1M9 1L1 1M9 1L9 9" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+                                                </svg>
+                                                <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                    <path d="M1 9L9 1M9 1L1 1M9 1L9 9" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+                                                </svg>
+                                            </i>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                         
+                        </div>
+                    </div>
+                </div>
+                <div class="cs_slider_arrows cs_style_1 cs_show_lg">
+                    <div class="cs_left_arrow rounded-circle cs_center">
+                        <svg width="22" height="16" viewBox="0 0 22 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M0.292892 7.29289C-0.0976315 7.68342 -0.0976315 8.31658 0.292892 8.70711L6.65685 15.0711C7.04738 15.4616 7.68054 15.4616 8.07107 15.0711C8.46159 14.6805 8.46159 14.0474 8.07107 13.6569L2.41421 8L8.07107 2.34315C8.46159 1.95262 8.46159 1.31946 8.07107 0.928932C7.68054 0.538408 7.04738 0.538408 6.65685 0.928932L0.292892 7.29289ZM22 7L1 7V9L22 9V7Z" fill="currentColor"></path>
+                        </svg>
+                    </div>
+                    <div class="cs_right_arrow rounded-circle cs_center">
+                        <svg width="22" height="16" viewBox="0 0 22 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M21.7071 8.70711C22.0976 8.31658 22.0976 7.68342 21.7071 7.29289L15.3431 0.928932C14.9526 0.538408 14.3195 0.538408 13.9289 0.928932C13.5384 1.31946 13.5384 1.95262 13.9289 2.34315L19.5858 8L13.9289 13.6569C13.5384 14.0474 13.5384 14.6805 13.9289 15.0711C14.3195 15.4616 14.9526 15.4616 15.3431 15.0711L21.7071 8.70711ZM0 9L21 9V7L0 7L0 9Z" fill="currentColor"></path>
+                        </svg>
+                    </div>
+                </div>
+            </div>
         </div>
-        <div class="cs_height_90 cs_height_lg_50"></div>
-        <div class="row cs_gap_y_50">
-          <div class="col-lg-6">
-            <div class="cs_post cs_style_1 cs_type_1">
-              <a href="/beyond-factory-gates-do-manufacturers-own-waste-products-create" class="cs_post_thumb">
-                <img src="assets/img/beyond_factory-600x400.webp" alt="Post">
-              </a>
-              <div class="cs_post_info">
-                <ul class="cs_post_meta cs_mp_0">
-                  <li><i class="fa-solid fa-user-pen"></i>Yajayo</li>
-                  <li><i class="fa-solid fa-tag"></i>Environment</li>
-                </ul>
-                <h2 class="cs_post_title cs_semibold cs_fs_28 cs_mb_22"><a href="recycling-glass-bottles-why-its-no-brainer.php">Beyond the Factory Gates: Do Manufacturers Own the Waste Their Products Create?</a></h2>
-                <p class="cs_post_subtitle cs_mb_16">Exploring Extended Producer Responsibility (EPR) and how it’s reshaping waste management in Kenya...</p>
-                <a href="recycling-glass-bottles-why-its-no-brainer.php" class="cs_btn cs_style_2 cs_heading_color">
-                  Learn More
-                  <i>
-                    <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <path d="M1 9L9 1M9 1L1 1M9 1L9 9" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
-                    </svg>                      
-                    <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <path d="M1 9L9 1M9 1L1 1M9 1L9 9" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
-                    </svg>
-                  </i>
-                </a>
-              </div>
-            </div>
-            <div class="cs_height_25 cs_height_lg_25"></div>
-            <div class="cs_post cs_style_1 cs_type_1">
-              <a href="/recycling-glass-bottles-why-its-no-brainer" class="cs_post_thumb">
-                <img src="assets/img/recycling_bottle_glass-600x400.webp" alt="Post">
-              </a>
-              <div class="cs_post_info">
-                <ul class="cs_post_meta cs_mp_0">
-                  <li><i class="fa-solid fa-user-pen"></i>Yajayo</li>
-                  <li><i class="fa-solid fa-tag"></i>Recycling</li>
-                </ul>
-                <h2 class="cs_post_title cs_semibold cs_fs_28 cs_mb_22"><a href="recycling-glass-bottles-why-its-no-brainer.php">Recycling Glass Bottles: Why It’s a No-Brainer</a></h2>
-                <p class="cs_post_subtitle cs_mb_16">Glass is all around us. It’s strong, safe, versatile, and trusted for packaging food, drinks, and medicine. In short, glass is part...</p>
-                <a href="recycling-glass-bottles-why-its-no-brainer.php" class="cs_btn cs_style_2 cs_heading_color">
-                  Learn More
-                  <i>
-                    <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <path d="M1 9L9 1M9 1L1 1M9 1L9 9" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
-                    </svg>                      
-                    <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <path d="M1 9L9 1M9 1L1 1M9 1L9 9" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
-                    </svg>
-                  </i>
-                </a>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-6">
-            <div class="cs_post cs_style_1 cs_type_2">
-              <a href="recycling-glass-bottles-why-its-no-brainer.php" class="cs_post_thumb">
-                <img src="assets/img/recycling_bottle_glass.webp" alt="Post">
-              </a>
-              <div class="cs_post_info">
-                <ul class="cs_post_meta cs_mp_0 cs_white_color">
-                  <li><i class="fa-solid fa-user-pen"></i>Yajayo</li>
-                  <li><i class="fa-solid fa-tag"></i>Environment</li>
-                </ul>
-                <h2 class="cs_post_title cs_semibold cs_fs_28 cs_mb_22 cs_white_color"><a href="recycling-glass-bottles-why-its-no-brainer.php">Beyond the Factory Gates: Do Manufacturers Own the Waste Their Products Create?</a></h2>
-                <p class="cs_post_subtitle cs_mb_16 cs_white_color">Exploring Extended Producer Responsibility (EPR) and how it’s reshaping waste management in Kenya...</p>
-                <a href="recycling-glass-bottles-why-its-no-brainer.php" class="cs_btn cs_style_2 cs_white_color">
-                  Learn More
-                  <i>
-                    <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <path d="M1 9L9 1M9 1L1 1M9 1L9 9" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
-                    </svg>                      
-                    <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                      <path d="M1 9L9 1M9 1L1 1M9 1L9 9" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
-                    </svg>
-                  </i>
-                </a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="cs_height_150 cs_height_lg_80"></div>
+        <div class="cs_height_150 cs_height_lg_80"></div>
     </section>
     <!-- End Blog Section -->
+
 <?php
 require_once 'includes/footer.php';
