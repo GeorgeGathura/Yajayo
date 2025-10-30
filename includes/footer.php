@@ -1,8 +1,8 @@
 
 <!-- Start Footer Section -->
-<footer class="cs_footer cs_style_1 cs_heading_bg cs_bg_filed" data-src="assets/img/agriculture/footer_bg.jpg">
+<footer class="cs_footer cs_style_1 cs_heading_bg cs_bg_filed">
     <div class="container">
-        <div class="cs_newsletter cs_style_2 cs_accent_bg cs_bg_filed" data-src="assets/img/cta_bg.svg">
+        <div class="cs_newsletter cs_style_2 cs_accent_bg cs_bg_filed">
             <div class="cs_newsletter_left">
                 <h2 class="cs_fs_28 cs_mb_9 cs_semibold">Subscribe Our Newsletter</h2>
                 <p class="mb-0 cs_heading_color">Join the style revolution and subscribe to our fashion shop</p>
@@ -28,7 +28,7 @@
             <div class="cs_footer_col">
                 <div class="cs_footer_widget">
                     <div class="cs_footer_text_widget">
-                        <img src="assets/svg/blog_shape1.svg" style="height:100px" alt="Logo">
+                        <img src="assets/img/logo.svg" class="cs_logo_footer" alt="Yajayo Logo">
                         <p>At Yajayo, we are redefining waste management in Kenya through innovation, empowerment, and environmental stewardship.</p>
                     </div>
                     <div class="cs_social_btns cs_style_1">
