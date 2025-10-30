@@ -7,34 +7,34 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="Acacia Five">
     <!-- Favicon Icon -->
-    <link rel="icon" href="fav/favicon.ico">
-    <link rel="apple-touch-icon" sizes="57x57" href="fav/apple-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="fav/apple-icon-60x60.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="fav/apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="fav/apple-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="fav/apple-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="fav/apple-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="fav/apple-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="fav/apple-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="fav/apple-icon-180x180.png">
-    <link rel="icon" type="image/png" sizes="192x192"  href="fav/android-icon-192x192.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="fav/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="fav/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="fav/favicon-16x16.png">
-    <link rel="manifest" href="fav/manifest.json">
+    <link rel="icon" href="/fav/favicon.ico">
+    <link rel="apple-touch-icon" sizes="57x57" href="/fav/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/fav/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/fav/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/fav/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/fav/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/fav/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/fav/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/fav/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/fav/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="/fav/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/fav/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/fav/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/fav/favicon-16x16.png">
+    <link rel="manifest" href="/fav/manifest.json">
     <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="msapplication-TileImage" content="fav/ms-icon-144x144.png">
+    <meta name="msapplication-TileImage" content="/fav/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
     <!-- Site Title -->
     <title><?php echo $title ?? "Generic" ?> | Yajayo</title>
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/fontawesome.min.css">
-    <link rel="stylesheet" href="assets/css/slick.min.css">
-    <link rel="stylesheet" href="assets/css/odometer.css">
-    <link rel="stylesheet" href="assets/css/light-gallerr.min.css">
-    <link rel="stylesheet" href="assets/css/jquery-ui.min.css">
-    <link rel="stylesheet" href="assets/css/animate.css">
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/assets/css/fontawesome.min.css">
+    <link rel="stylesheet" href="/assets/css/slick.min.css">
+    <link rel="stylesheet" href="/assets/css/odometer.css">
+    <link rel="stylesheet" href="/assets/css/light-gallerr.min.css">
+    <link rel="stylesheet" href="/assets/css/jquery-ui.min.css">
+    <link rel="stylesheet" href="/assets/css/animate.css">
+    <link rel="stylesheet" href="/assets/css/style.css">
 </head>
 <body>
 <!-- Start Preloader -->
@@ -43,8 +43,8 @@
         <span></span>
         <span></span>
     </div>
-    <div class="cs_preloader_shape"><img src="assets/svg/blog_shape1.svg" alt=""></div>
-    <div class="cs_preloader_shape_2"><img src="assets/svg/blog_shape1.svg" alt=""></div>
+    <div class="cs_preloader_shape"><img src="/assets/svg/blog_shape1.svg" alt=""></div>
+    <div class="cs_preloader_shape_2"><img src="/assets/svg/blog_shape1.svg" alt=""></div>
 </div>
 <!-- End Preloader -->
 <!-- Start Header Section -->
@@ -53,8 +53,8 @@
         <div class="container">
             <div class="cs_main_header_in">
                 <div class="cs_main_header_left">
-                    <a class="cs_site_branding" href="index">
-                        <img src="assets/img/logo.svg" class="cs_logo_header" alt="Yajayo Logo">
+                    <a class="cs_site_branding" href="/index">
+                        <img src="/assets/img/logo.svg" class="cs_logo_header" alt="Yajayo Logo">
                     </a>
                 </div>
                 <div class="cs_main_header_center">
@@ -65,7 +65,7 @@
 
                             <li><a href="services">Services</a></li>
                             <li><a href="blog">Blog</a></li>
-
+                            <li><a href="work-with-us">Work with Us</a></li>
 
                             <li><a href="contact">Contact</a></li>
                         </ul>
@@ -96,8 +96,8 @@
     <div class="cs_side_header_overlay"></div>
     <div class="cs_side_header_in">
         <div class="cs_side_header_shape"></div>
-        <a class="cs_site_branding" href="index.html">
-            <img src="assets/img/logo_background.jpg" alt="Logo">
+        <a class="cs_site_branding" href="/index">
+            <img src="/assets/img/logo_background.jpg" alt="Logo">
         </a>
         <div class="cs_side_header_box">
             <h2 class="cs_side_header_heading">Do you have a project in your  <br> mind? Keep connect us.</h2>

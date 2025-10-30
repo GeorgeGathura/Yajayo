@@ -23,7 +23,7 @@
             </form>
         </div>
     </div>
-    <div class="container cs_white_color">
+    <div class="container text-black">
         <div class="cs_footer_row">
             <div class="cs_footer_col">
                 <div class="cs_footer_widget">
@@ -47,7 +47,7 @@
             </div>
             <div class="cs_footer_col">
                 <div class="cs_footer_widget">
-                    <h2 class="cs_footer_widget_title cs_fs_21 cs_white_color cs_semibold cs_mb_32">Useful Links</h2>
+                    <h2 class="cs_footer_widget_title cs_fs_21 text-black cs_semibold cs_mb_32">Useful Links</h2>
                     <ul class="cs_footer_widget_menu">
                         <li><a href="/index">Home</a></li>
                         <li><a href="/about">About</a></li>
@@ -60,18 +60,18 @@
             </div>
             <div class="cs_footer_col">
                 <div class="cs_footer_widget">
-                    <h2 class="cs_footer_widget_title cs_fs_21 cs_white_color cs_semibold cs_mb_32">Services</h2>
+                    <h2 class="cs_footer_widget_title cs_fs_21 text-black cs_semibold cs_mb_32">Services</h2>
                     <ul class="cs_footer_widget_menu">
-                        <li><a href="service-details.php">Eco Friendly Product</a></li>
-                        <li><a href="service-details.php">Advocacy and Campaign</a></li>
-                        <li><a href="service-details.php">Sustainable Gardening</a></li>
-                        <li><a href="service-details.php">Wildlife Saving</a></li>
+                        <li><a href="/reverse-logistics.php">Reverse Logistics</a></li>
+                        <li><a href="/onsite-management.php">Onsite Management</a></li>
+                        <li><a href="/epr-compliance.php">EPR Compliance</a></li>
+                        <li><a href="/esg-reporting.php">ESG Reporting</a></li>
                     </ul>
                 </div>
             </div>
             <div class="cs_footer_col">
                 <div class="cs_footer_widget">
-                    <h2 class="cs_footer_widget_title cs_fs_21 cs_white_color cs_semibold cs_mb_32">Contact Info</h2>
+                    <h2 class="cs_footer_widget_title cs_fs_21 text-black cs_semibold cs_mb_32">Contact Info</h2>
                     <ul class="cs_footer_widget_menu">
                         <li>Nilkanth Business Park, Mlolongo</li>
                         <li><a href="tel:+254721326374">+254(0) 721 326 374</a></li>
@@ -100,15 +100,15 @@
 <!-- End Scroll Up Button -->
 
 <!-- Script -->
-<script src="assets/js/jquery-3.6.0.min.js"></script>
-<script src="assets/js/jquery.slick.min.js"></script>
-<script src="assets/js/odometer.js"></script>
-<script src="assets/js/YTPlayer.min.js"></script>
-<script src="assets/js/light-gallery.min.js"></script>
-<script src="assets/js/jquery-ui.min.js"></script>
-<script src="assets/js/ripples.min.js"></script>
-<script src="assets/js/gsap.min.js"></script>
-<script src="assets/js/wow.min.js"></script>
-<script src="assets/js/main.js"></script>
+<script src="/assets/js/jquery-3.6.0.min.js"></script>
+<script src="/assets/js/jquery.slick.min.js"></script>
+<script src="/assets/js/odometer.js"></script>
+<script src="/assets/js/YTPlayer.min.js"></script>
+<script src="/assets/js/light-gallery.min.js"></script>
+<script src="/assets/js/jquery-ui.min.js"></script>
+<script src="/assets/js/ripples.min.js"></script>
+<script src="/assets/js/gsap.min.js"></script>
+<script src="/assets/js/wow.min.js"></script>
+<script src="/assets/js/main.js"></script>
 </body>
 </html>

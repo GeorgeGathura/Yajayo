@@ -1,18 +1,17 @@
 <?php 
-
-require_once('includes/header2.php'); ?>
-    <!-- Start Hero Section -->
-    <section class="cs_page_heading cs_bg_filed cs_center text-center cs_heading_bg" data-src="assets/img/page_heading_bg.jpg">
+$title="Onsite Management";
+include('includes/header2.php'); ?>
+  
+    <section class="cs_page_heading cs_bg_filed cs_center text-center cs_heading_bg" data-src="../assets/img/page_heading_bg.jpg">
       <div class="container">
         <h1 class="cs_fs_51 cs_white_color cs_mb_11">Service Details</h1>
         <ol class="breadcrumb">
-          <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+          <li class="breadcrumb-item"><a href="index.php">Home</a></li>
           <li class="breadcrumb-item active">Service Details</li>
         </ol>
       </div>
     </section>
-    <!-- End Hero Section -->
-    <!-- Start Service Details Section -->
+ 
     <section>
       <div class="cs_height_150 cs_height_lg_80"></div>
       <div class="container">
@@ -22,25 +21,25 @@ require_once('includes/header2.php'); ?>
               <h3 class="cs_nav_widget_title cs_accent_bg cs_white_color cs_fs_28 cs_semibold mb-0">Our Services</h3>
               <ul class="cs_mp_0">
                 <li>
-                  <a href="/reverse-logistics">
+                  <a href="services/reverse-logistics">
                       Reverse Logistics
                       <i class="fa-solid fa-arrow-right-long"></i>
                   </a>
                 </li>
                 <li>
-                  <a href="/onsite-management">
+                  <a href="services/onsite-management">
                       Onsite Management
                       <i class="fa-solid fa-arrow-right-long"></i>
                   </a>
                 </li>
                 <li>
-                  <a href="/epr-compliance">
+                  <a href="services/epr-compliance">
                     EPR Compliance
                     <i class="fa-solid fa-arrow-right-long"></i>
                   </a>
                 </li>
                 <li>
-                  <a href="/esg-reporting">
+                  <a href="services/esg-reporting">
                       ESG Reporting
                     <i class="fa-solid fa-arrow-right-long"></i>
                   </a>
@@ -84,7 +83,7 @@ require_once('includes/header2.php'); ?>
           </div>
           <div class="col-xl-8 col-lg-7">
             <div class="cs_details_content">
-              <img src="assets/img/others/service_details_1.jpg" alt="">
+              <img src="/assets/img/others/service_details_1.jpg" alt="">
               <h4>1. Product Range</h4>
               <p>Explore our diverse range of eco-friendly products, including but not limited to reusable bags, biodegradable cutlery, sustainable home goods, organic clothing, and energy-efficient devices. Each product is carefully chosen to meet our high standards for environmental impact.</p>
               <h4>2. Sustainability Standards</h4>
@@ -95,10 +94,10 @@ require_once('includes/header2.php'); ?>
               <p>Join our community of environmentally conscious consumers. Connect with like-minded individuals, share your eco-friendly lifestyle tips, and participate in discussions about sustainable living. Together, we can amplify our positive impact on the planet.</p>
               <div class="row">
                 <div class="col-sm-6">
-                  <img src="assets/img/others/service_details_2.jpg" alt="">
+                  <img src="/assets/img/others/service_details_2.jpg" alt="">
                 </div>
                 <div class="col-sm-6">
-                  <img src="assets/img/others/service_details_3.jpg" alt="">
+                  <img src="/assets/img/others/service_details_3.jpg" alt="">
                 </div>
               </div>
             </div>

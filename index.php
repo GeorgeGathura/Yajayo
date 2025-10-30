@@ -203,7 +203,7 @@ if ($__path !== '' && $__path !== 'index' && $__path !== 'index.php') {
     <section class="cs_bg_filed cs_bg_fixed" data-src="assets/img/banner/services_overlay.webp">
         <div class="cs_height_145 cs_height_lg_75"></div>
         <div class="container">
-            <div class="cs_section_heading cs_style_1 text-center">
+            <div class="cs_section_heading cs_style_1 text-left">
                 <h3 class="cs_fs_21 cs_semibold cs_accent_color cs_mb_13">What We Do</h3>
                 <h2 class="cs_fs_51 cs_mb_9 cs_white_color">Our Services</h2>
                 <p class="mb-0 cs_white_color">Discover a range of services aimed at promoting environmental <br>awareness, sustainability, and positive action.</p>
@@ -219,8 +219,8 @@ if ($__path !== '' && $__path !== 'index' && $__path !== 'index.php') {
                                 <div class="cs_iconbox_icon cs_center cs_mb_27">
                                     <i class="fa-solid fa-arrows-spin" style="color: #fff;font-size: 80px"></i>
                                 </div>
-                                <h3 class="cs_iconbox_title cs_white_color cs_fs_21 cs_semibold cs_mb_50"><a href="service-details.html">Reverse Logistics</a></h3>
-                                <a href="service-details.html" class="cs_btn cs_style_2 cs_white_color">
+                                <h3 class="cs_iconbox_title cs_white_color cs_fs_21 cs_semibold cs_mb_50"><a href="reverse-logistics.php">Reverse Logistics</a></h3>
+                                <a href="reverse-logistics.php" class="cs_btn cs_style_2 cs_white_color">
                                     Learn More
                                     <i>
                                         <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -240,8 +240,8 @@ if ($__path !== '' && $__path !== 'index' && $__path !== 'index.php') {
                                     <i class="fa-solid fa-handshake" style="color: #fff;font-size: 80px"></i>
                                 </div>
                                 <h3 class="cs_iconbox_title cs_white_color cs_fs_21 cs_semibold cs_mb_50">
-                                    <a href="service-details.html">Onsite Management</a></h3>
-                                <a href="service-details.html" class="cs_btn cs_style_2 cs_white_color">
+                                    <a href="onsite-management.php">Onsite Management</a></h3>
+                                <a href="onsite-management.php" class="cs_btn cs_style_2 cs_white_color">
                                     Learn More
                                     <i>
                                         <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -295,144 +295,26 @@ if ($__path !== '' && $__path !== 'index' && $__path !== 'index.php') {
                                 </a>
                             </div>
                         </div>
-                        <div class="cs_slide">
-                            <div class="cs_iconbox cs_style_5 text-center cs_accent_bg">
-                                <div class="cs_iconbox_icon cs_center cs_mb_27">
-                                    <img src="assets/img/climate-change/feature_icon_2.svg" alt="">
-                                </div>
-                                <h3 class="cs_iconbox_title cs_white_color cs_fs_21 cs_semibold cs_mb_50"><a href="service-details.html">Renewable Energy Consultation</a></h3>
-                                <a href="service-details.html" class="cs_btn cs_style_2 cs_white_color">
-                                    Learn More
-                                    <i>
-                                        <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M1 9L9 1M9 1L1 1M9 1L9 9" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path>
-                                        </svg>
-                                        <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                                            <path d="M1 9L9 1M9 1L1 1M9 1L9 9" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path>
-                                        </svg>
-                                    </i>
-                                </a>
-                            </div>
-                        </div>
+               
                     </div>
                 </div>
             </div>
-            <div class="cs_slider_arrows cs_style_1 cs_type_1">
-                <div class="cs_arrow_wrap cs_arrow_wrap_left cs_center">
-                    <div class="cs_left_arrow rounded-circle cs_center">
-                        <svg width="31" height="16" viewBox="0 0 31 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M0.292892 7.29289C-0.0976315 7.68342 -0.0976315 8.31658 0.292892 8.70711L6.65685 15.0711C7.04738 15.4616 7.68054 15.4616 8.07107 15.0711C8.46159 14.6805 8.46159 14.0474 8.07107 13.6569L2.41421 8L8.07107 2.34315C8.46159 1.95262 8.46159 1.31946 8.07107 0.928932C7.68054 0.538408 7.04738 0.538408 6.65685 0.928932L0.292892 7.29289ZM31 7L1 7V9L31 9V7Z" fill="currentColor"/>
-                        </svg>
-                    </div>
+            <div class="cs_slider_arrows cs_style_3 cs_type_1 mt-2">
+                <div class="cs_left_arrow rounded-circle cs_center">
+                    <svg width="22" height="16" viewBox="0 0 22 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M0.292892 7.29289C-0.0976315 7.68342 -0.0976315 8.31658 0.292892 8.70711L6.65685 15.0711C7.04738 15.4616 7.68054 15.4616 8.07107 15.0711C8.46159 14.6805 8.46159 14.0474 8.07107 13.6569L2.41421 8L8.07107 2.34315C8.46159 1.95262 8.46159 1.31946 8.07107 0.928932C7.68054 0.538408 7.04738 0.538408 6.65685 0.928932L0.292892 7.29289ZM22 7L1 7V9L22 9V7Z" fill="currentColor"/>
+                    </svg>
                 </div>
-                <div class="cs_arrow_wrap cs_arrow_wrap_right cs_center">
-                    <div class="cs_right_arrow rounded-circle cs_center">
-                        <svg width="31" height="16" viewBox="0 0 31 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M30.7071 8.70711C31.0976 8.31658 31.0976 7.68342 30.7071 7.29289L24.3431 0.928932C23.9526 0.538408 23.3195 0.538408 22.9289 0.928932C22.5384 1.31946 22.5384 1.95262 22.9289 2.34315L28.5858 8L22.9289 13.6569C22.5384 14.0474 22.5384 14.6805 22.9289 15.0711C23.3195 15.4616 23.9526 15.4616 24.3431 15.0711L30.7071 8.70711ZM0 9H30V7H0V9Z" fill="currentColor"/>
-                        </svg>
-                    </div>
+                <div class="cs_right_arrow rounded-circle cs_center">
+                    <svg width="22" height="16" viewBox="0 0 22 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M21.7071 8.70711C22.0976 8.31658 22.0976 7.68342 21.7071 7.29289L15.3431 0.928932C14.9526 0.538408 14.3195 0.538408 13.9289 0.928932C13.5384 1.31946 13.5384 1.95262 13.9289 2.34315L19.5858 8L13.9289 13.6569C13.5384 14.0474 13.5384 14.6805 13.9289 15.0711C14.3195 15.4616 14.9526 15.4616 15.3431 15.0711L21.7071 8.70711ZM0 9L21 9V7L0 7L0 9Z" fill="currentColor"/>
+                    </svg>
                 </div>
             </div>
         </div>
         <div class="cs_height_150 cs_height_lg_80"></div>
     </section>
     <!-- End Service Section -->
-
-    <!-- Start Event Section -->
-    <section class="cs_shape_wrap">
-      <div class="cs_height_145 cs_height_lg_75"></div>
-      <div class="cs_shape cs_shape_position_4"><img src="assets/svg/blog_shape1.svg" style="height:100px" alt=""></div>
-      <div class="cs_shape cs_shape_position_5"><img src="assets/svg/blog_shape2.svg" style="height:100px" alt=""></div>
-      <div class="container">
-        <div class="cs_section_heading cs_style_1 text-center">
-          <h3 class="cs_fs_21 cs_semibold cs_accent_color cs_mb_13 wow fadeIn" data-wow-duration="0.8s" data-wow-delay="0.25s">Events</h3>
-          <h2 class="cs_fs_51 mb-0 wow fadeInUp" data-wow-duration="0.8s" data-wow-delay="0.25s">Our Upcoming Events</h2>
-        </div>
-        <div class="cs_height_90 cs_height_lg_50"></div>
-        <div class="cs_event_card_1_list">
-          <div class="cs_event_card cs_style_1 cs_shadow_1 cs_white_bg">
-            <div class="cs_event_card_in">
-              <a href="event-details.html" class="cs_event_card_thumb"><img src="assets/img/agriculture/event_card_img_1.jpg" alt=""></a>
-              <div class="cs_event_card_info">
-                <div class="cs_event_card_meta cs_mb_15 cs_heading_font cs_fs_21">
-                  <span>Time : 08:00 - 09:00</span>
-                  <span>Date : 11 Dec 2024</span>
-                </div>
-                <h2 class="cs_event_card_title cs_fs_38 cs_semibold cs_mb_20"><a href="event-details.html">Sustainable Farming For Better Life</a></h2>
-                <p class="cs_event_card_posted_by mb-0 cs_fs_21 cs_semibold cs_heading_font">By <span>Kerua Zoshua</span> Environment Activist</p>
-              </div>
-            </div>
-            <div class="cs_event_card_btn">
-              <a href="event-details.html" class="cs_btn cs_style_2 cs_type_1 cs_heading_color cs_fs_21 cs_semibold cs_heading_font">
-                See Details
-                <i>
-                  <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M1 9L9 1M9 1L1 1M9 1L9 9" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path>
-                  </svg>                      
-                  <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M1 9L9 1M9 1L1 1M9 1L9 9" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path>
-                  </svg>
-                </i>
-              </a>
-            </div>
-          </div>
-          <div class="cs_event_card cs_style_1 cs_shadow_1 cs_white_bg">
-            <div class="cs_event_card_in">
-              <a href="event-details.html" class="cs_event_card_thumb"><img src="assets/img/agriculture/event_card_img_2.jpg" alt=""></a>
-              <div class="cs_event_card_info">
-                <div class="cs_event_card_meta cs_mb_15 cs_heading_font cs_fs_21">
-                  <span>Time : 09:00 - 10:00</span>
-                  <span>Date : 10 Dec 2024</span>
-                </div>
-                <h2 class="cs_event_card_title cs_fs_38 cs_semibold cs_mb_20"><a href="event-details.html">Empowering Farmers Worldwide</a></h2>
-                <p class="cs_event_card_posted_by mb-0 cs_fs_21 cs_semibold cs_heading_font">By <span>Mili Zadeja</span> Biologist</p>
-              </div>
-            </div>
-            <div class="cs_event_card_btn">
-              <a href="event-details.html" class="cs_btn cs_style_2 cs_type_1 cs_heading_color cs_fs_21 cs_semibold cs_heading_font">
-                See Details
-                <i>
-                  <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M1 9L9 1M9 1L1 1M9 1L9 9" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path>
-                  </svg>                      
-                  <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M1 9L9 1M9 1L1 1M9 1L9 9" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path>
-                  </svg>
-                </i>
-              </a>
-            </div>
-          </div>
-          <div class="cs_event_card cs_style_1 cs_shadow_1 cs_white_bg">
-            <div class="cs_event_card_in">
-              <a href="event-details.html" class="cs_event_card_thumb"><img src="assets/img/agriculture/event_card_img_3.jpg" alt=""></a>
-              <div class="cs_event_card_info">
-                <div class="cs_event_card_meta cs_mb_15 cs_heading_font cs_fs_21">
-                  <span>Time : 08:00 - 09:00</span>
-                  <span>Date : 08 Dec 2024</span>
-                </div>
-                <h2 class="cs_event_card_title cs_fs_38 cs_semibold cs_mb_20"><a href="event-details.html">Green Community Cleanup Day</a></h2>
-                <p class="cs_event_card_posted_by mb-0 cs_fs_21 cs_semibold cs_heading_font">By <span>Kerua Zoshua</span> Environment Activist</p>
-              </div>
-            </div>
-            <div class="cs_event_card_btn">
-              <a href="event-details.html" class="cs_btn cs_style_2 cs_type_1 cs_heading_color cs_fs_21 cs_semibold cs_heading_font">
-                See Details
-                <i>
-                  <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M1 9L9 1M9 1L1 1M9 1L9 9" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path>
-                  </svg>                      
-                  <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M1 9L9 1M9 1L1 1M9 1L9 9" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"></path>
-                  </svg>
-                </i>
-              </a>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="cs_height_150 cs_height_lg_80"></div>
-    </section>
-    <!-- End Event Section -->
 
     <!-- Start Blog Section -->
     <section class="cs_gray_bg_2">
@@ -500,8 +382,8 @@ if ($__path !== '' && $__path !== 'index' && $__path !== 'index.php') {
                                             <li><i class="fa-solid fa-user-pen"></i>Yajayo</li>
                                             <li><i class="fa-solid fa-tag"></i>Environment</li>
                                         </ul>
-                                        <h2 class="cs_post_title cs_semibold cs_fs_28 cs_mb_22 "><a href="recycling-glass-bottles-why-its-no-brainer.php">Beyond the Factory Gates: Do Manufacturers Own the Waste Their Products Create?</a></h2>
-                                        <p class="cs_post_subtitle cs_mb_16 ">Exploring Extended Producer Responsibility (EPR) and how it’s reshaping waste management in Kenya...</p>
+                                        <h2 class="cs_post_title cs_semibold cs_fs_28 cs_mb_22 "><a href="recycling-glass-bottles-why-its-no-brainer.php">Recycling Glass Bottles: Why It’s a No-Brainer</a></h2>
+                                        <p class="cs_post_subtitle cs_mb_16 ">Glass is all around us. It’s strong, safe, versatile, and trusted for packaging food, drinks, and medicine. In short, glass is part of our everyday life.</p>
                                         <a href="recycling-glass-bottles-why-its-no-brainer.php" class="cs_btn cs_style_2 cs_heading_color">
                                             Learn More
                                             <i>

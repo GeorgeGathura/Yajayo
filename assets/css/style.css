@@ -5219,7 +5219,10 @@ label {
 }
 
 .cs_copyright a {
-  color: var(--tertiary-color);
+  color: #000;
+}
+.cs_copyright a:hover {
+    color: #fff;
 }
 
 .cs_footer_bottom {
@@ -5280,7 +5283,7 @@ label {
   background-position: 0 calc(100% - 0px);
 }
 .cs_footer_widget_menu a:hover{
-    color:var(--tertiary-color);
+    color:var(--white-color);
 }
 .cs_footer.cs_style_1 {
   padding-top: 1px;
