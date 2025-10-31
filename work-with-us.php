@@ -19,7 +19,7 @@ include 'includes/header.php';
     <div class="container">
         <div class="row cs_gap_y_80">
             <div class="col-xl-4 col-lg-5">
-                <div class="sticky-top">
+                <div class="sticky sticky-top">
                     <div class="cs_nav_widget cs_shadow_1">
                         <h3 class="cs_nav_widget_title cs_accent_bg cs_white_color cs_fs_28 cs_semibold mb-0">Work With Us</h3>
                         <ul class="cs_mp_0">

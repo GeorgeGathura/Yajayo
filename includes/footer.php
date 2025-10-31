@@ -28,7 +28,7 @@
             <div class="cs_footer_col">
                 <div class="cs_footer_widget">
                     <div class="cs_footer_text_widget">
-                        <img src="assets/img/logo.svg" class="cs_logo_footer" alt="Yajayo Logo">
+                        <img src="assets/svg/logo_white.svg" class="cs_logo_footer" alt="Yajayo Logo">
                         <p>At Yajayo, we are redefining waste management in Kenya through innovation, empowerment, and environmental stewardship.</p>
                     </div>
                     <div class="cs_social_btns cs_style_1">

@@ -54,7 +54,7 @@
             <div class="cs_main_header_in">
                 <div class="cs_main_header_left">
                     <a class="cs_site_branding" href="/index">
-                        <img src="/assets/img/logo.svg" class="cs_logo_header" alt="Yajayo Logo">
+                        <img src="/assets/svg/logo_white.svg" class="cs_logo_header" alt="Yajayo Logo">
                     </a>
                 </div>
                 <div class="cs_main_header_center">
