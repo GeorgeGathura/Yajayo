@@ -97,7 +97,7 @@
     <div class="cs_side_header_in">
         <div class="cs_side_header_shape"></div>
         <a class="cs_site_branding" href="/index">
-            <img src="/assets/img/logo_background.jpg" alt="Logo">
+            <img src="/assets/svg/logo.svg" alt="Logo">
         </a>
         <div class="cs_side_header_box">
             <h2 class="cs_side_header_heading">Do you have a project in your  <br> mind? Keep connect us.</h2>

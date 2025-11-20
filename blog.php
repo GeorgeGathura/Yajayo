@@ -54,7 +54,7 @@ include('includes/header.php');
           <div class="col-lg-4">
             <div class="cs_post cs_style_1">
               <a href="recycling-glass-bottles-why-its-no-brainer" class="cs_post_thumb">
-                <img src="assets/img/recycling_bottle_glass-600x400.webp" alt="Post">
+                <img src="assets/img/recycling/recycling_bottle_glass.webp" alt="Post">
               </a>
               <div class="cs_post_info cs_shadow_1">
                 <ul class="cs_post_meta cs_mp_0">

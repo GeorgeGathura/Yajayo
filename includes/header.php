@@ -43,7 +43,7 @@
         <span></span>
         <span></span>
     </div>
-    <div class="cs_preloader_shape"><img src="assets/img/logo.svg" alt=""></div>
+    <div class="cs_preloader_shape"><img src="assets/svg/logo.svg" alt=""></div>
     <div class="cs_preloader_shape_2"><img src="assets/svg/blog_shape1.svg" alt=""></div>
 </div>
 <!-- End Preloader -->
@@ -100,7 +100,7 @@
     <div class="cs_side_header_in">
         <div class="cs_side_header_shape"></div>
         <a class="cs_site_branding" href="index.php">
-            <img src="assets/img/logo.svg" class="cs_logo_header" alt="Yajayo Logo">
+            <img src="assets/svg/logo.svg" class="cs_logo_header" alt="Yajayo Logo">
         </a>
         <div class="cs_side_header_box">
             <h2 class="cs_side_header_heading">Do you have a project in your  <br> mind? Keep connect us.</h2>

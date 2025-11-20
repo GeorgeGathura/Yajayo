@@ -19,7 +19,8 @@ include('includes/header2.php'); ?>
       <div class="container">
         <div class="row align-items-center cs_gap_y_50">
           <div class="col-lg-6">
-            <a href="https://www.youtube.com/embed/rRid6GCJtgc" class="cs_video_block cs_style_1 cs_bg_filed cs_video_open cs_center" data-src="assets/img/home2.webp">
+              <img src="assets/img/about/about2.webp" alt=""/>
+
               <span class="cs_player_btn cs_white_color">
                 <svg width="70" height="70" viewBox="0 0 70 70" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path d="M35 0C15.7004 0 0 15.7004 0 35C0 54.2996 15.7004 70 35 70C54.2996 70 70 54.2996 70 35C70 15.7004 54.2996 0 35 0ZM35 64.1667C18.9175 64.1667 5.83333 51.0825 5.83333 35C5.83333 18.9175 18.9175 5.83333 35 5.83333C51.0825 5.83333 64.1667 18.9175 64.1667 35C64.1667 51.0825 51.0825 64.1667 35 64.1667ZM23.3333 51.4704L52.6167 35L23.3333 18.5296V51.4733V51.4704ZM29.1667 28.5017L40.7167 35L29.1667 41.4983V28.5017Z" fill="currentColor"/>
@@ -30,14 +31,36 @@ include('includes/header2.php'); ?>
           <div class="col-lg-6">
             <div class="cs_pl_75">
               <h3 class="cs_accent_color cs_fs_21 cs_semibold cs_mb_13">About Us</h3>
-              <h2 class="cs_fs_51 cs_mb_29">Closing the Loop for a sustainable tomorrow</h2>
-                <p class="cs_mb_37">At Yajayo, we are redefining waste management in Kenya through innovation, empowerment, and environmental stewardship. We partner with businesses, communities, and local aggregators to recover, recycle, and reimagine waste as a valuable resource.</p>
-                <p class="cs_mb_37">Rooted in our core values of Environmental Sustainability, Empowerment, and Innovation, we provide end-to-end solutions — from reverse logistics and EPR compliance to onsite waste management and ESG reporting.</p>
-                <p class="cs_mb_37">Our mission is simple yet powerful: to create a cleaner planet, sustainable livelihoods, and a truly circular economy where nothing goes to waste.</p>
             
+                <p class="cs_mb_37"> Yajayo was founded in 2022 by Baraza Mwabe with a vision to transform Kenya’s waste management landscape through innovation, accountability, and community empowerment. As the dedicated recycling arm of ECCL, we operate as a social enterprise committed to reducing the environmental impact of waste while creating meaningful opportunities for the communities we serve. Our work is anchored in the belief that sustainability and social progress go hand in hand.</p>
+                <p class="cs_mb_37">From our main hub in Mlolongo, Nairobi, we have grown into a decentralized network with collection centres in Kajiado, Machakos, Migori, Bomet, and Uasin Gishu counties. This expansion enables us to recover more waste directly from communities, create localized job opportunities, and strengthen the national recycling value chain. Our team is made up predominantly of young people, and we are intentional about driving gender inclusion, with a goal of achieving over 50% women representation across our operations.</p>
+                <p class="cs_mb_37">Yajayo is a proud pioneer member of the Project Rudisha program in partnership with EABL, where we have successfully recovered over 10 million spirit bottles, preventing them from polluting the environment and redirecting them back into productive use. This achievement reflects our commitment to circular economy principles and large-scale impact.</p>
+                           
             </div>
           </div>
         </div>
+          <div class="row align-items-center cs_gap_y_50">
+           
+              <div class="col-lg-6">
+                  <div class="cs_pl_75">
+                    
+                   <p class="cs_mb_37"> We work with a wide range of clients — from producers and manufacturers to institutions and community partners — helping them recover their post-consumer waste, achieve full traceability, measure their sustainability efforts, and comply with national Extended Producer Responsibility (EPR) regulations.</p>
+                      <p class="cs_mb_37">Yajayo is fully licensed by NEMA, County Governments, and the Directorate of Safety and Health Services (DOSHS), ensuring that all our operations meet the highest standards of environmental, health, and safety compliance.</p>
+                      <p class="cs_mb_37"> At Yajayo, we’re not just managing waste — we’re building a cleaner, more inclusive, and more sustainable future for Kenya.</p>
+
+
+                  </div>
+              </div>
+              <div class="col-lg-6">
+                  <img src="assets/img/about/about1.webp" alt=""/>
+              <span class="cs_player_btn cs_white_color">
+                <svg width="70" height="70" viewBox="0 0 70 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M35 0C15.7004 0 0 15.7004 0 35C0 54.2996 15.7004 70 35 70C54.2996 70 70 54.2996 70 35C70 15.7004 54.2996 0 35 0ZM35 64.1667C18.9175 64.1667 5.83333 51.0825 5.83333 35C5.83333 18.9175 18.9175 5.83333 35 5.83333C51.0825 5.83333 64.1667 18.9175 64.1667 35C64.1667 51.0825 51.0825 64.1667 35 64.1667ZM23.3333 51.4704L52.6167 35L23.3333 18.5296V51.4733V51.4704ZM29.1667 28.5017L40.7167 35L29.1667 41.4983V28.5017Z" fill="currentColor"/>
+                </svg>                  
+              </span>
+                  </a>
+              </div>
+          </div>
       </div>
       <div class="cs_height_150 cs_height_lg_80"></div>
     </section>
@@ -89,38 +112,6 @@ include('includes/header2.php'); ?>
       <div class="cs_height_150 cs_height_lg_80"></div>
     </section>
     <!-- End Feature Section -->
-    <!-- Start Funfact  -->
-    <div class="cs_height_132 cs_height_lg_70"></div>
-    <div class="container">
-      <div class="cs_funfact_1_list">
-        <div class="cs_funfact cs_style_1">
-          <h2 class="cs_funfact_number cs_fs_70 mb-0">
-            <span class="odometer" data-count-to="10"></span>M
-          </h2>
-          <p class="cs_funfact_title mb-0">spirit Glass <br> Bottles <br>Reclaimed</p>
-        </div>
-        <div class="cs_funfact cs_style_1">
-          <h2 class="cs_funfact_number cs_fs_70 mb-0">
-            <span class="odometer" data-count-to="1"></span>M
-          </h2>
-          <p class="cs_funfact_title mb-0">Dispatched spirit <br/>glass bottles<br> Monthly</p>
-        </div>
-        <div class="cs_funfact cs_style_1">
-          <h2 class="cs_funfact_number cs_fs_70 mb-0">
-            <span class="odometer" data-count-to="500"></span>+
-          </h2>
-          <p class="cs_funfact_title mb-0">Aggregators <br> since <br>inception</p>
-        </div>
-        <div class="cs_funfact cs_style_1">
-          <h2 class="cs_funfact_number cs_fs_70 mb-0">
-            <span class="odometer" data-count-to="100"></span>T
-          </h2>
-          <p class="cs_funfact_title mb-0">Tonnes<br> of plastic<br> recycled</p>
-        </div>
-      </div>
- 
-    </div>
-    <div class="cs_height_125 cs_height_lg_60"></div>
-    <!-- End Funfact  -->
+
 
 <?php require_once('includes/footer.php'); ?> 

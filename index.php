@@ -20,12 +20,34 @@ if ($__path !== '' && $__path !== 'index' && $__path !== 'index.php') {
     <section class="cs_slider cs_style_1 cs_heading_bg">
       <div class="cs_slider_container" data-autoplay="0" data-loop="1" data-speed="900" data-center="0" data-variable-width="0" data-fade-slide="1" data-slides-per-view="1">
         <div class="cs_slider_wrapper">
+
+            <div class="cs_slide">
+                <div class="cs_hero cs_style_4 cs_heading_bg cs_center">
+                    <div class="cs_hero_bg cs_bg_filed" data-src="assets/img/banner/hero2.webp"></div>
+                    <div class="container">
+                        <div class="cs_hero_text">
+                            <h1 class="cs_hero_title cs_fs_70 cs_white_color cs_mb_60 cs_mb_lg_40">Helping organisations recover back their packaging for re-use and recycling</h1>
+                            <a href="about.php" class="cs_btn cs_style_1">
+                                Learn More
+                                <i>
+                                    <svg width="9" height="10" viewBox="0 0 9 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M0.5 9L8.5 1M8.5 1L0.5 1M8.5 1L8.5 9" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+                                    </svg>
+                                    <svg width="9" height="10" viewBox="0 0 9 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M0.5 9L8.5 1M8.5 1L0.5 1M8.5 1L8.5 9" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
+                                    </svg>
+                                </i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
             <div class="cs_slide">
             <div class="cs_hero cs_style_4 cs_heading_bg cs_center">
               <div class="cs_hero_bg cs_bg_filed" data-src="assets/img/banner/hero3.webp"></div>
               <div class="container">
                 <div class="cs_hero_text">
-                    <h1 class="cs_hero_title cs_fs_70 cs_white_color cs_mb_60 cs_mb_lg_40">We buy recyclable waste directly from local aggregators</h1>
+                    <h1 class="cs_hero_title cs_fs_70 cs_white_color cs_mb_60 cs_mb_lg_40">We work with local communities to recover waste for recycling</h1>
                     <a href="/services" class="cs_btn cs_style_1">
                         Learn More
                         <i>
@@ -83,27 +105,6 @@ if ($__path !== '' && $__path !== 'index' && $__path !== 'index.php') {
                     </div>
                 </div>
             </div>
-            <div class="cs_slide">
-            <div class="cs_hero cs_style_4 cs_heading_bg cs_center">
-              <div class="cs_hero_bg cs_bg_filed" data-src="assets/img/banner/hero2.webp"></div>
-              <div class="container">
-                <div class="cs_hero_text">
-                  <h1 class="cs_hero_title cs_fs_70 cs_white_color cs_mb_60 cs_mb_lg_40">Measure, manage, and report ESG performance with precision</h1>
-                  <a href="about.php" class="cs_btn cs_style_1">
-                    Learn More
-                    <i>
-                      <svg width="9" height="10" viewBox="0 0 9 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M0.5 9L8.5 1M8.5 1L0.5 1M8.5 1L8.5 9" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
-                      </svg>
-                      <svg width="9" height="10" viewBox="0 0 9 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M0.5 9L8.5 1M8.5 1L0.5 1M8.5 1L8.5 9" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"/>
-                      </svg>
-                    </i>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
         </div>
       </div>
       <div class="cs_pagination cs_style_2 cs_type_1"></div>
@@ -375,7 +376,7 @@ if ($__path !== '' && $__path !== 'index' && $__path !== 'index.php') {
                             <div class="cs_slide">
                                 <div class="cs_post cs_style_1">
                                     <a href="recycling-glass-bottles-why-its-no-brainer.php" class="cs_post_thumb">
-                                        <img src="assets/img/recycling_bottle_glass.webp" alt="Post">
+                                        <img src="assets/img/recycling/recycling_bottle_glass.webp" alt="Post">
                                     </a>
                                     <div class="cs_post_info cs_shadow_1">
                                         <ul class="cs_post_meta cs_mp_0">

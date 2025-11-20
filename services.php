@@ -1,8 +1,8 @@
 <?php 
 $title="Services";
-include('includes/header2.php'); ?>
+include('includes/header.php'); ?>
 <!-- Start Hero Section -->
-    <section class="cs_page_heading cs_bg_filed cs_center text-center cs_heading_bg" data-src="assets/img/banner/services2.webp">
+    <section class="cs_page_heading cs_bg_filed cs_center text-center cs_heading_bg" data-src="assets/img/banner/services.webp">
       <div class="container">
         <h1 class="cs_fs_51 cs_white_color cs_mb_11">Services</h1>
         <ol class="breadcrumb">
@@ -24,7 +24,7 @@ include('includes/header2.php'); ?>
             <h2 class="cs_fs_28 cs_semibold cs_mb_25">Reverse Logistics</h2>
             <p class="cs_mb_20"> At Yajayo, we make circularity possible. Through our Reverse Logistics service, we help clients trace, collect, and recover post-consumer packaging waste directly from the market for re-use and recycling.</p>
           
-            <a href="service-details.php" class="cs_btn cs_style_2 cs_heading_color">
+            <a href="reverse-logistics.php" class="cs_btn cs_style_2 cs_heading_color">
               Learn More
               <i>
                 <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">

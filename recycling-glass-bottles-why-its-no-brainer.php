@@ -2,7 +2,7 @@
 $title= "Recycling Glass Bottles: Why It’s a No-Brainer";
 include('includes/header2.php'); ?>
     <!-- Start Hero Section -->
-    <section class="cs_page_heading cs_bg_filed cs_center text-center cs_heading_bg" data-src="assets/img/recycling_bottle_glass.webp">
+    <section class="cs_page_heading cs_bg_filed cs_center text-center cs_heading_bg" data-src="assets/img/recycling/recycling_bottle_glass.webp">
       <div class="container">
         <h1 class="cs_fs_51 cs_white_color cs_mb_11"><?php echo $title; ?></h1>
         <ol class="breadcrumb">
@@ -19,7 +19,7 @@ include('includes/header2.php'); ?>
         <div class="row cs_gap_y_80">
           <div class="col-xl-8">
             <p class="cs_blog_details">
-              <img src="assets/img/recycling_bottle_glass.webp" alt="Blog">
+              <img src="assets/img/recycling/recycling_bottle_glass.webp" alt="Blog">
                 <p>Take a moment to think about your day – from the glass of water in the morning to the soda bottle at lunch or the glass of juice you finish at dinner. Glass is all around us. It’s strong, safe, versatile, and trusted for packaging food, drinks, and medicine. In short, glass is part of our everyday life.</p>
                 <p>But here’s the catch: once we’re done with it, most glass in Kenya ends up in landfills, 
                     dumpsites, or worse – littering our environment. Unlike organic waste, glass doesn’t 

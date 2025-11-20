@@ -2,12 +2,12 @@
 $title="Reverse Logistics";
 include('includes/header2.php'); ?>
   
-    <section class="cs_page_heading cs_bg_filed cs_center text-center cs_heading_bg" data-src="../assets/img/page_heading_bg.jpg">
+    <section class="cs_page_heading cs_bg_filed cs_center text-center cs_heading_bg" data-src="../assets/img/banner/services2.webp">
       <div class="container">
-        <h1 class="cs_fs_51 cs_white_color cs_mb_11">Service Details</h1>
+        <h1 class="cs_fs_51 cs_white_color cs_mb_11">Reverse Logistics</h1>
         <ol class="breadcrumb">
           <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-          <li class="breadcrumb-item active">Service Details</li>
+          <li class="breadcrumb-item active">Reverse Logistics</li>
         </ol>
       </div>
     </section>
@@ -21,7 +21,7 @@ include('includes/header2.php'); ?>
               <h3 class="cs_nav_widget_title cs_accent_bg cs_white_color cs_fs_28 cs_semibold mb-0">Our Services</h3>
               <ul class="cs_mp_0">
                 <li>
-                  <a href="services/reverse-logistics">
+                  <a href="/reverse-logistics">
                       Reverse Logistics
                       <i class="fa-solid fa-arrow-right-long"></i>
                   </a>
@@ -83,16 +83,17 @@ include('includes/header2.php'); ?>
           </div>
           <div class="col-xl-8 col-lg-7">
             <div class="cs_details_content">
-              <img src="/assets/img/others/service_details_1.jpg" alt="">
-              <h4>1. Product Range</h4>
-              <p>Explore our diverse range of eco-friendly products, including but not limited to reusable bags, biodegradable cutlery, sustainable home goods, organic clothing, and energy-efficient devices. Each product is carefully chosen to meet our high standards for environmental impact.</p>
-              <h4>2. Sustainability Standards</h4>
-              <p>We prioritize products that are made from recycled or renewable materials, are energy-efficient, and have minimal environmental footprints. Our selection process involves assessing the entire lifecycle of each product to ensure it aligns with our commitment to sustainability.</p>
-              <h4>3. Educational Resources</h4>
-              <p>In addition to offering eco-friendly products, we believe in empowering our customers with knowledge. Find informative guides, tips, and resources on our website to help you make informed choices about sustainable living and using our products.</p>
-              <h4>4. Community Engagement</h4>
-              <p>Join our community of environmentally conscious consumers. Connect with like-minded individuals, share your eco-friendly lifestyle tips, and participate in discussions about sustainable living. Together, we can amplify our positive impact on the planet.</p>
-              <div class="row">
+             
+                <p>At Yajayo, we make circularity possible. Through our Reverse Logistics service, we help clients trace, collect, and recover post-consumer packaging waste directly from the market for re-use and recycling. Our team works closely with producers, distributors, and retailers to create efficient take-back systems that close the loop on waste.</p>
+                <p>By managing transportation, sorting, and aggregation, we ensure recovered materials flow back into the production cycle — minimizing environmental impact and maximizing resource efficiency.</p>
+                <p>Whether it’s plastics, glass, or other packaging materials, we make sustainability practical, measurable, and impactful for your business.</p>
+                <h4>Why It Matters to your organization</h4>
+                <p>Effective reverse logistics is no longer optional, it is essential for modern sustainability and competitiveness.
+                    By reclaiming post-consumer packaging, clients reduce reliance on virgin materials, lower operational costs, and strengthen their circular economy commitments.</p>
+                <p>It protects brands from regulatory pressure and the reputational risks linked to unmanaged waste in the environment.</p>
+                <p>With growing public concern about pollution, companies that actively recover their materials build trust and demonstrate responsible stewardship. 
+                    Reverse logistics also provides crucial data that informs packaging innovation, supply chain improvements, and alignment with global sustainability standards.</p>
+                <div class="row">
                 <div class="col-sm-6">
                   <img src="/assets/img/others/service_details_2.jpg" alt="">
                 </div>

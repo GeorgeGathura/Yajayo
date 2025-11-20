@@ -33,14 +33,14 @@
                     </div>
                     <div class="cs_social_btns cs_style_1">
                         <a href="https://www.linkedin.com/company/yajayo/" class="cs_center">
-                            <i class="fa-brands fa-linkedin-in"></i>
+                            <i class="fa-brands fa-linkedin-in fa-xl"></i>
                         </a>
                         <a href="https://www.instagram.com/yajayo_ke?utm_source=qr&igsh=MXFsYngxNGNyZzNxZA==" class="cs_center">
-                            <i class="fa-brands fa-instagram"></i>
+                            <i class="fa-brands fa-instagram fa-xl"></i>
                         </a>
                     
                         <a href="https://www.tiktok.com/@yajayokenya?_t=ZM-8zDtA3SIvkk&_r=1" class="cs_center">
-                            <i class="fa-brands fa-tiktok"></i>
+                            <i class="fa-brands fa-tiktok fa-xl"></i>
                         </a>
                     </div>
                 </div>
