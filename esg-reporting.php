@@ -1,17 +1,18 @@
 <?php 
-$title="Reverse Logistics";
-include('includes/header2.php'); ?>
-  
-    <section class="cs_page_heading cs_bg_filed cs_center text-center cs_heading_bg" data-src="../assets/img/banner/services2.webp">
+$title = 'Esg Reporting';
+require_once('includes/header2.php'); ?>
+    <!-- Start Hero Section -->
+    <section class="cs_page_heading cs_bg_filed cs_center text-center cs_heading_bg" data-src="/assets/img/banner/hero2.webp">
       <div class="container">
-        <h1 class="cs_fs_51 cs_white_color cs_mb_11">Reverse Logistics</h1>
+        <h1 class="cs_fs_51 cs_white_color cs_mb_11">ESG Reporting</h1>
         <ol class="breadcrumb">
           <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-          <li class="breadcrumb-item active">Reverse Logistics</li>
+          <li class="breadcrumb-item active">ESG Reporting</li>
         </ol>
       </div>
     </section>
- 
+    <!-- End Hero Section -->
+    <!-- Start Service Details Section -->
     <section>
       <div class="cs_height_150 cs_height_lg_80"></div>
       <div class="container">
@@ -58,43 +59,19 @@ include('includes/header2.php'); ?>
             </div>
           </div>
           <div class="col-xl-8 col-lg-7">
-            <div class="">
-             
-                <p>At Yajayo, we make circularity possible. Through our Reverse Logistics service, we help clients trace, collect, and recover post-consumer packaging waste directly from the market for re-use and recycling. Our team works closely with producers, distributors, and retailers to create efficient take-back systems that close the loop on waste.</p>
-                             
-                <p>By managing transportation, sorting, and aggregation, we ensure recovered materials flow back into the production cycle — minimizing environmental impact and maximizing resource efficiency.</p>
-                <div class="row">
-                    <div class="col-sm-6">
-                        <figure>
-                            <img src="/assets/img/services/packing.webp" alt="">
-                            <figcaption>Yajayo employees packing recycled materials</figcaption>
-                        </figure>
-
-                    </div>
-                    <div class="col-sm-6">
-                        <figure>
-                            <img src="/assets/img/services/transport1.webp" alt="">
-                            <figcaption>Yajayo employees moving packed  materials for dispatch</figcaption>
-                        </figure>
-
-                    </div>
-                </div>
-                <p>Whether it’s plastics, glass, or other packaging materials, we make sustainability practical, measurable, and impactful for your business.</p>
+            <div class="cs_details_content">
+               <p>Transparency drives accountability — and impact. Yajayo helps organizations measure, manage, and report their environmental, social,
+                   and governance (ESG) performance with accuracy and clarity. </p>
+                <p>We track key waste metrics, including generation, recovery, and recycling rates, translating them into insights that support meaningful action.
+                    Our reports align with global ESG frameworks, enabling clients to communicate their impact to investors, regulators, and stakeholders with
+                    confidence. By turning data into purpose-driven action, we empower your business to set measurable goals, enhance credibility, and lead
+                    in a sustainability-driven world.</p>
                 <h4>Why It Matters to your organization</h4>
-                <p>Effective reverse logistics is no longer optional, it is essential for modern sustainability and competitiveness.
-                    By reclaiming post-consumer packaging, clients reduce reliance on virgin materials, lower operational costs, and strengthen their circular economy commitments.</p>
-                <p>It protects brands from regulatory pressure and the reputational risks linked to unmanaged waste in the environment.</p>
-                <p>With growing public concern about pollution, companies that actively recover their materials build trust and demonstrate responsible stewardship. 
-                    Reverse logistics also provides crucial data that informs packaging innovation, supply chain improvements, and alignment with global sustainability standards.</p>
-                <div class="row">
-                    <div class="col-sm-12">
-                        <figure>
-                            <img src="/assets/img/services/sorting.webp" alt="">
-                            <figcaption>A Yajayo employee collecting post-consumer materials for recycling</figcaption>
-                        </figure>
-
-                    </div>
-                </div>
+                   <p>In today’s business environment, ESG reporting is critical for transparency, access to investment, and long-term resilience.
+                       Stakeholders increasingly use ESG performance to assess organizational value and risk. Without proper reporting, companies risk losing 
+                       competitive advantage or credibility. Robust ESG data strengthens decision-making, supports resource efficiency, and ensures
+                       alignment with global sustainability standards. </p>
+                <p>Ultimately, ESG reporting positions your business as a forward-thinking, responsible, and future-ready organization in an impact-conscious marketplace.</p>              
             </div>
             <?php include('includes/faq.php'); ?>
           </div>

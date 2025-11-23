@@ -3,7 +3,7 @@
   <defs>
     <style>
       .cls-1 {
-        font-family: "Metropolis", sans-serif;
+        font-family: sans-serif;
         font-size: 33px;
         font-weight: 700;
       }

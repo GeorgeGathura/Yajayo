@@ -1,6 +1,6 @@
 <?php 
 $title ="Blog";
-include('includes/header.php'); 
+include('includes/header2.php'); 
 ?>
 <!-- Start Hero Section -->
     <section class="cs_page_heading cs_bg_filed cs_center text-center cs_heading_bg" data-src="assets/img/banner/blog.webp">

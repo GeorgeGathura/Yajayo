@@ -1,6 +1,6 @@
 <?php 
 $title="Services";
-include('includes/header.php'); ?>
+include('includes/header2.php'); ?>
 <!-- Start Hero Section -->
     <section class="cs_page_heading cs_bg_filed cs_center text-center cs_heading_bg" data-src="assets/img/banner/services.webp">
       <div class="container">
@@ -46,7 +46,7 @@ include('includes/header.php'); ?>
               </div>
             <h2 class="cs_fs_28 cs_semibold cs_mb_25">Onsite Management</h2>
             <p class="cs_mb_20">We bring sustainability to your doorstep. Our trained onsite waste management teams help clients recover, sort, and manage waste right at their own facilities.</p>
-            <a href="service-details.php" class="cs_btn cs_style_2 cs_heading_color">
+            <a href="onsite-management.php" class="cs_btn cs_style_2 cs_heading_color">
               Learn More
               <i>
                 <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -68,7 +68,7 @@ include('includes/header.php'); ?>
             <p class="cs_mb_20">
                  Navigating Kenya’s Extended Producer Responsibility (EPR) regulations can be complex, but we make it simple.
             </p>
-            <a href="service-details.php" class="cs_btn cs_style_2 cs_heading_color">
+            <a href="epr-compliance.php" class="cs_btn cs_style_2 cs_heading_color">
               Learn More
               <i>
                 <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -89,7 +89,7 @@ include('includes/header.php'); ?>
               </div>
             <h2 class="cs_fs_28 cs_semibold cs_mb_25">ESG Reporting</h2>
             <p class="cs_mb_20">Yajayo helps organizations measure, manage, and report their environmental, social, and governance performance with precision.</p>
-            <a href="service-details.php" class="cs_btn cs_style_2 cs_heading_color">
+            <a href="esg-reporting.php" class="cs_btn cs_style_2 cs_heading_color">
               Learn More
               <i>
                 <svg width="10" height="10" viewBox="0 0 10 10" fill="none" xmlns="http://www.w3.org/2000/svg">

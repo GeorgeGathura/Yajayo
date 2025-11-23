@@ -2,12 +2,12 @@
 
 require_once('includes/header2.php'); ?>
     <!-- Start Hero Section -->
-    <section class="cs_page_heading cs_bg_filed cs_center text-center cs_heading_bg" data-src="assets/img/page_heading_bg.jpg">
+    <section class="cs_page_heading cs_bg_filed cs_center text-center cs_heading_bg" data-src="assets/img/banner/epr-compliance.webp">
       <div class="container">
-        <h1 class="cs_fs_51 cs_white_color cs_mb_11">Service Details</h1>
+        <h1 class="cs_fs_51 cs_white_color cs_mb_11">EPR Compliance</h1>
         <ol class="breadcrumb">
-          <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-          <li class="breadcrumb-item active">Service Details</li>
+          <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+          <li class="breadcrumb-item active">EPR Compliance</li>
         </ol>
       </div>
     </section>
@@ -20,9 +20,9 @@ require_once('includes/header2.php'); ?>
           <div class="col-xl-4 col-lg-5">
             <div class="cs_nav_widget cs_shadow_1">
               <h3 class="cs_nav_widget_title cs_accent_bg cs_white_color cs_fs_28 cs_semibold mb-0">Our Services</h3>
-                <?php
+            <?php
                 include('includes/services-nav.php');
-                ?>
+            ?>
             </div>
             <div class="cs_height_50 cs_height_lg_40"></div>
             <div class="cs_contact_widget cs_bg_filed text-center cs_" data-src="assets/img/contact2.webp">
@@ -60,23 +60,20 @@ require_once('includes/header2.php'); ?>
           </div>
           <div class="col-xl-8 col-lg-7">
             <div class="cs_details_content">
-              <img src="assets/img/others/service_details_1.jpg" alt="">
-              <h4>1. Product Range</h4>
-              <p>Explore our diverse range of eco-friendly products, including but not limited to reusable bags, biodegradable cutlery, sustainable home goods, organic clothing, and energy-efficient devices. Each product is carefully chosen to meet our high standards for environmental impact.</p>
-              <h4>2. Sustainability Standards</h4>
-              <p>We prioritize products that are made from recycled or renewable materials, are energy-efficient, and have minimal environmental footprints. Our selection process involves assessing the entire lifecycle of each product to ensure it aligns with our commitment to sustainability.</p>
-              <h4>3. Educational Resources</h4>
-              <p>In addition to offering eco-friendly products, we believe in empowering our customers with knowledge. Find informative guides, tips, and resources on our website to help you make informed choices about sustainable living and using our products.</p>
-              <h4>4. Community Engagement</h4>
-              <p>Join our community of environmentally conscious consumers. Connect with like-minded individuals, share your eco-friendly lifestyle tips, and participate in discussions about sustainable living. Together, we can amplify our positive impact on the planet.</p>
-              <div class="row">
-                <div class="col-sm-6">
-                  <img src="assets/img/others/service_details_2.jpg" alt="">
-                </div>
-                <div class="col-sm-6">
-                  <img src="assets/img/others/service_details_3.jpg" alt="">
-                </div>
-              </div>
+                
+                <p>Navigating Kenya’s Extended Producer Responsibility (EPR) regulations can be complex — but we make it simple. 
+                    Yajayo supports producers, importers, and brand owners in meeting their legal obligations under the EPR framework. 
+                    We design and implement take-back schemes, manage waste recovery targets, and maintain traceability through data-driven reporting.
+                    Our compliance experts ensure your business remains aligned with NEMA guidelines while advancing your sustainability goals.
+                    With Yajayo as your EPR partner, compliance becomes a strategic advantage rather than a burden.</p>
+                <h4>Why It Matters to your organisation</h4>
+                
+                <p>Kenya’s EPR regulations are now fully enforced, and non-compliance can result in penalties, reputational damage, or business disruptions. 
+                    Working with a trusted partner ensures you meet regulatory requirements without navigating the complexity alone.</p>
+                <p>EPR compliance shows leadership in sustainability, demonstrating responsibility for your products across their lifecycle — strengthening stakeholder
+                    confidence and consumer trust. Effective compliance improves traceability, informs better packaging design, reduces long-term environmental risks,
+                    and helps your brand stay competitive in a market that increasingly values responsible production.</p>
+
             </div>
             <?php include('includes/faq.php'); ?>
           </div>

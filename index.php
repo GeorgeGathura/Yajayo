@@ -15,7 +15,7 @@ if ($__path !== '' && $__path !== 'index' && $__path !== 'index.php') {
     }
 }
 ?>
-<?php require_once('includes/header.php'); ?>
+<?php require_once('includes/header2.php'); ?>
     <!-- Start Hero Section -->
     <section class="cs_slider cs_style_1 cs_heading_bg">
       <div class="cs_slider_container" data-autoplay="0" data-loop="1" data-speed="900" data-center="0" data-variable-width="0" data-fade-slide="1" data-slides-per-view="1">

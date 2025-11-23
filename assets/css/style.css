@@ -8623,3 +8623,6 @@ html .ui-button.ui-state-disabled:active {
 .cs_iconbox.cs_style_5 .cs_iconbox_icon{
     border:0;
 }
+figcaption {
+    font-style: italic;
+}
