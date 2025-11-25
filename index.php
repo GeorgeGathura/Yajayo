@@ -1,4 +1,5 @@
 <?php
+$title = 'Home';
 // Extensionless URL routing for Nginx/Herd (no .htaccess needed)
 // If the request path maps to an existing PHP file in the project root,
 // include that file and exit. Otherwise, continue rendering the homepage.
@@ -109,24 +110,40 @@ if ($__path !== '' && $__path !== 'index' && $__path !== 'index.php') {
       </div>
       <div class="cs_pagination cs_style_2 cs_type_1"></div>
     </section>
+
+
+    <!-- Start Funfact  -->
+
     <div class="container">
-      <div class="cs_hero_4_iconbox cs_shadow_1 cs_white_bg">
-        <div class="cs_iconbox cs_style_2">
-          <div class="cs_iconbox_icon"><img src="assets/img/bottle.svg" alt=""></div>
-          <h3 class="cs_iconbox_title mb-0 cs_fs_28 cs_semibold">  10M+ <br/>Bottles Reclaimed
-          </h3>
+        <div class=" cs_funfact_1_list">
+            <div class="cs_funfact cs_style_1">
+                <h2 class="cs_funfact_number cs_fs_70 mb-0">
+                    <span class="odometer-h" data-count-to="10"></span>M
+                </h2>
+                <p class="cs_funfact_title mb-0">Bottles <br/>  Reclaimed</p>
+            </div>
+            <div class="cs_funfact cs_style_1">
+                <h2 class="cs_funfact_number cs_fs_70 mb-0">
+                    <span class="odometer-h" data-count-to="1"></span>M
+                </h2>
+                <p class="cs_funfact_title mb-0">Dispatched <br>Bottles Monthly</p>
+            </div>
+            <div class="cs_funfact cs_style_1">
+                <h2 class="cs_funfact_number cs_fs_70 mb-0">
+                    <span class="odometer-h" data-count-to="500"></span>+
+                </h2>
+                <p class="cs_funfact_title mb-0">Aggregators</p>
+            </div>
+            <div class="cs_funfact cs_style_1">
+                <h2 class="cs_funfact_number cs_fs_70 mb-0">
+                    <span class="odometer-h" data-count-to="100"></span>T
+                </h2>
+                <p class="cs_funfact_title mb-0">Plastic <br/> Recycled</p>
+            </div>
         </div>
-        <div class="cs_iconbox cs_style_2">
-          <div class="cs_iconbox_icon"><img src="assets/img/recycle.svg" alt=""></div>
-          <h3 class="cs_iconbox_title mb-0 cs_fs_28 cs_semibold"> 100+ <br/>tonnes of <br/>plastic recycled</h3>
-        </div>
-        <div class="cs_iconbox cs_style_2">
-          <div class="cs_iconbox_icon"><img src="assets/img/dispatch.svg" alt=""></div>
-          <h3 class="cs_iconbox_title mb-0 cs_fs_28 cs_semibold">1M<br/> Bottles dispatched <br/> monthly </h3>
-        </div>
-       
-      </div>
     </div>
+
+    <!-- End Funfact  -->
     <!-- End Hero Section -->
     <!-- Start About Section -->
     <section class="cs_shape_wrap">
@@ -144,33 +161,6 @@ if ($__path !== '' && $__path !== 'index' && $__path !== 'index.php') {
               <p class="cs_mb_30">Our mission is simple yet powerful: to create a cleaner planet, sustainable livelihoods, and a truly circular economy where nothing goes to waste.   </p>
 
            
-              <div class="cs_funfact_2_list">
-                <div class="cs_funfact cs_style_2">
-                  <p class="cs_funfact_number cs_fs_70 mb-0 cs_bold">
-                    <span class="odometer" data-count-to="10"></span>M
-                  </p>
-                  <p class="cs_funfact_title mb-0 cs_fs_18"> spirit Glass Bottles Reclaimed</p>
-                </div>
-                <div class="cs_funfact cs_style_2">
-                  <p class="cs_funfact_number cs_fs_70 mb-0 cs_bold">
-                    <span class="odometer" data-count-to="1"></span>M
-                  </p>
-                  <p class="cs_funfact_title mb-0 cs_fs_18">Dispatched spirit glass bottles Monthly</p>
-                </div>
-                <div class="cs_funfact cs_style_2">
-                  <p class="cs_funfact_number cs_fs_70 mb-0 cs_bold">
-                    <span class="odometer" data-count-to="500"></span>+
-                  </p>
-                  <p class="cs_funfact_title mb-0 cs_fs_18">Aggregators since inception</p>
-                </div>
-                <div class="cs_funfact cs_style_2">
-                  <p class="cs_funfact_number cs_fs_70 mb-0 cs_bold">
-                    <span class="odometer" data-count-to="100"></span>T
-                  </p>
-                  <p class="cs_funfact_title mb-0 cs_fs_18">Tonnes of plastic recycled</p>
-                </div>
-              </div>
-              <div class="cs_height_45 cs_height_lg_30"></div>
               <a href="about.php" class="cs_btn cs_style_1">
                 Learn More
                 <i>

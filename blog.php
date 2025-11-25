@@ -15,7 +15,7 @@ include('includes/header2.php');
     <!-- End Hero Section -->
     <!-- Start Blog Section -->
     <section class="cs_shape_wrap">
-      <div class="cs_height_145 cs_height_lg_75"></div>
+      <div class="cs_height_30 cs_height_lg_75"></div>
       <div class="cs_shape cs_shape_position_4"><img src="assets/svg/blog_shape1.svg"  style="height:120px;" alt=""></div>
       <div class="cs_shape cs_shape_position_5"><img src="assets/svg/blog_shape2.svg"  style="height:100px;" alt=""></div>
       <div class="container">
@@ -23,7 +23,7 @@ include('includes/header2.php');
           <h3 class="cs_fs_21 cs_semibold cs_accent_color cs_mb_13">Blog Post</h3>
           <h2 class="cs_fs_51 mb-0">Our Latest News & Updates</h2>
         </div>
-        <div class="cs_height_90 cs_height_lg_50"></div>
+        <div class="cs_height_30 cs_height_lg_50"></div>
         <div class="row cs_gap_y_50">
           <div class="col-lg-4">
             <div class="cs_post cs_style_1">

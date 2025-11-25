@@ -48,6 +48,7 @@
     stickyHeader();
     dynamicBackground();
     counterInit();
+      homeCounterInit();
     slickInit();
     modalVideo();
     scrollUp();
@@ -365,6 +366,17 @@
       });
     }
   }
+
+    function homeCounterInit() {
+        if ($.exists('.odometer-h')) {
+            setTimeout( function () {
+               
+                $('.odometer-h').each(function () {
+                        $(this).html($(this).data('count-to'));
+                });
+            },500);
+        }
+    }
 
   /*--------------------------------------------------------------
     11. Accordian
