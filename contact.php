@@ -74,7 +74,7 @@ include('includes/header2.php'); ?>
             <div class="cs_iconbox cs_style_7">
               <div class="cs_iconbox_icon cs_center"><img src="assets/img/others/contact_icon_3.svg" alt=""></div>
               <div class="cs_iconbox_info">
-                <h3 class="cs_fs_28 cs_semibold cs_mb_10">Office Location</h3>
+                <h3 class="cs_fs_28 cs_semibold cs_mb_10">Office Contact</h3>
                 <p class="mb-0"><a href="tel:+214544512009">+254 (0) 721 326 374</a></p>
               </div>
             </div>
