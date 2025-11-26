@@ -3,7 +3,7 @@ $title ="Blog";
 include('includes/header2.php'); 
 ?>
 <!-- Start Hero Section -->
-    <section class="cs_page_heading cs_bg_filed cs_center text-center cs_heading_bg" data-src="assets/img/banner/blog.webp">
+    <section class="cs_page_heading cs_bg_filed cs_center text-center cs_heading_bg" data-src="assets/img/banner/onsite-management.webp">
       <div class="container">
         <h1 class="cs_fs_51 cs_white_color cs_mb_11">Our Blog</h1>
         <ol class="breadcrumb">

@@ -24,7 +24,7 @@ if ($__path !== '' && $__path !== 'index' && $__path !== 'index.php') {
 
             <div class="cs_slide">
                 <div class="cs_hero cs_style_4 cs_heading_bg cs_center">
-                    <div class="cs_hero_bg cs_bg_filed" data-src="assets/img/banner/hero2.webp"></div>
+                    <div class="cs_hero_bg cs_bg_filed" data-src="assets/img/banner/hero1.webp"></div>
                     <div class="container">
                         <div class="cs_hero_text">
                             <h1 class="cs_hero_title cs_fs_70 cs_white_color cs_mb_60 cs_mb_lg_40">Helping organisations recover back their packaging for re-use and recycling</h1>
@@ -66,10 +66,12 @@ if ($__path !== '' && $__path !== 'index' && $__path !== 'index.php') {
           </div>
             <div class="cs_slide">
             <div class="cs_hero cs_style_4 cs_heading_bg cs_center">
-              <div class="cs_hero_bg cs_bg_filed" data-src="assets/img/banner/hero1.webp"></div>
+              <div class="cs_hero_bg cs_bg_filed" data-src="assets/img/banner/hero2.webp"></div>
               <div class="container">
                 <div class="cs_hero_text">
-                  <h1 class="cs_hero_title cs_fs_70 cs_white_color cs_mb_60 cs_mb_lg_40">Recover post-consumer packaging waste for re-use and recycling</h1>
+                  <h1 class="cs_hero_title cs_fs_70 cs_white_color cs_mb_60 cs_mb_lg_40">
+                      We help you keep track of your environmental impact in your ESG journey
+                  </h1>
                   <a href="about.php" class="cs_btn cs_style_1">
                     Learn More
                     <i>

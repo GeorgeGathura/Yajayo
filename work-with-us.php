@@ -19,7 +19,7 @@ include 'includes/header2.php';
       <div class="container">
         <div class="cs_section_heading cs_style_1 text-center">
           <h3 class="cs_fs_21 cs_semibold cs_accent_color cs_mb_13">Work With Us</h3>
-          <h2 class="cs_fs_51 mb-0">We Work With <br/>A Wide Range Of Clients</h2>
+          <h2 class="cs_fs_51 mb-0">We Work With <br/>A Wide Range Of Partners</h2>
         </div>
         <div class="cs_height_30 cs_height_lg_50"></div>
 
