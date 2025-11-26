@@ -28,7 +28,7 @@ include 'includes/header2.php';
         <div class="row cs_gap_y_50">
           <div class="col-lg-6">
             <div class="cs_card cs_style_2 cs_type_2 cs_shadow_1 cs_white_bg">
-              <div class="cs_card_thumb"><img  src="assets/img/banner/hero3.jpg" alt="" class="w-100"></div>
+              <div class="cs_card_thumb"><img  src="assets/img/services/work-with-us1.webp" alt="" class="w-100"></div>
               <div class="cs_card_info h-25">
                 <h2 class="cs_fs_38 cs_mb_20 cs_semibold">Aggregators – Empowering the Backbone of Recycling</h2>
                 <p class="cs_mb_14">
@@ -56,7 +56,7 @@ include 'includes/header2.php';
           </div>
           <div class="col-lg-6">
             <div class="cs_card cs_style_2 cs_type_2 cs_shadow_1 cs_white_bg">
-              <div class="cs_card_thumb"><img src="assets/img/banner/hero3.webp" alt="" class="w-100"></div>
+              <div class="cs_card_thumb"><img src="assets/img/services/work-with-us4.webp" alt="" class="w-100"></div>
               <div class="cs_card_info h-25">
                 <h2 class="cs_fs_38 cs_mb_20 cs_semibold">Employees – The Heart of Our Operations</h2>
                 <p class="cs_mb_14">Our employees drive every success story at Yajayo. From waste recovery to client service, they bring skill, passion, and purpose to everything we do.</p>
@@ -97,7 +97,7 @@ include 'includes/header2.php';
           <div class="row cs_gap_y_50">
           <div class="col-lg-6">
             <div class="cs_card cs_style_2 cs_type_2 cs_shadow_1 cs_white_bg">
-              <div class="cs_card_thumb"><img src="assets/img/banner/hero4.webp" alt="" class="w-100"></div>
+              <div class="cs_card_thumb"><img src="assets/img/services/work-with-us3.webp" alt="" class="w-100"></div>
               <div class="cs_card_info">
               
                   <h2 class="cs_fs_38 cs_mb_20 cs_semibold">Partners – Collaborating for Impact</h2>
@@ -127,7 +127,7 @@ include 'includes/header2.php';
           </div>
           <div class="col-lg-6">
             <div class="cs_card cs_style_2 cs_type_2 cs_shadow_1 cs_white_bg">
-              <div class="cs_card_thumb"><img src="assets/img/banner/hero2.webp" alt="" class="w-100"></div>
+              <div class="cs_card_thumb"><img src="assets/img/services/work-with-us2.webp" alt="" class="w-100"></div>
               <div class="cs_card_info">
                   <h2 class="cs_fs_38 cs_mb_20 cs_semibold">Donors – Catalysts for Sustainable Change</h2>
                   <p class="cs_mb_14">Our donors help us expand programs that empower people and protect the environment.

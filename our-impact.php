@@ -4,7 +4,7 @@ include 'includes/header2.php';
 ?>
 
 <!-- Start Hero Section -->
-<section class="cs_page_heading cs_bg_filed cs_center text-center cs_heading_bg" data-src="assets/img/banner/blog.webp">
+<section class="cs_page_heading cs_bg_filed cs_center text-center cs_heading_bg" data-src="assets/img/banner/impact.webp">
     <div class="container">
         <h1 class="cs_fs_51 cs_white_color cs_mb_11">Our Impact</h1>
         <ol class="breadcrumb">
@@ -36,7 +36,7 @@ include 'includes/header2.php';
             <h2 class="cs_funfact_number cs_fs_70 mb-0">
                 <span class="odometer-h" data-count-to="50"></span>T
             </h2>
-            <p class="cs_funfact_title mb-0">Carbon Saving<br/>Tonnes </p>
+            <p class="cs_funfact_title mb-0">Tonnes of <br/>CO₂e saved</p>
         </div>
        
     </div>
